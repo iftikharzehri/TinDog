@@ -45,13 +45,19 @@ h3{
     margin-right: 50px;
 }
 #features{
-    margin: 100px;
-    size: 5rem;
+   padding: 7% 15%;
+}
+#feature-box{
+    padding: 4.5%;
 }
 .i-features-images{
     color: #ef8172;
+    margin-bottom: 1rem;
 
 }
 p{
     color: #8f8f8f;
+}
+.i-features-images:hover{
+    color: #ff4c68;
 }
