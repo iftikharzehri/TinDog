@@ -107,3 +107,21 @@ p {
 #pricing{
   padding: 7% 15%;
 }
+.Labrador:hover,.Mastiff:hover,.Chihuahua:hover{
+background-color: #ff4c68;
+border-color: #ff4c68;
+}
+.Labrador,.Mastiff{
+  background-color: #ef8172;
+}
+
+/* footer  */
+
+#footer{
+background-color: #ef8172;
+padding: -5px;
+margin: 0;
+
+color: #fff;
+
+}
