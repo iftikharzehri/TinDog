@@ -1,6 +1,7 @@
 #title {
   background-color: #ff4c68;
   color: #fff;
+
 }
 
 #heading {
@@ -30,7 +31,12 @@
 /* .title-image */
 .title-image {
   width: 50%;
-  transform: rotate(30deg);
+  transform: rotate(30deg); 
+ width: 250px;
+ height: auto;
+  position: absolute;
+  
+  
 }
 
 /* features */
@@ -52,9 +58,13 @@ h3 {
 #features {
   padding: 7% 15%;
   background-color: #fff;
+  position: relative;
+z-index: -1 ; 
 }
 #feature-box {
-  padding: 4.5%;
+  padding: 4.5%;  position: relative;z-index: -1 ; 
+
+
 }
 .i-features-images {
   color: #ef8172;
