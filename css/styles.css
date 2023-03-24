@@ -32,10 +32,8 @@
 .title-image {
   width: 50%;
   transform: rotate(30deg); 
- width: 250px;
- height: auto;
-  position: absolute;
-  
+
+ 
   
 }
 
@@ -58,12 +56,10 @@ h3 {
 #features {
   padding: 7% 15%;
   background-color: #fff;
-  position: relative;
-z-index: -1 ; 
+
 }
 #feature-box {
-  padding: 4.5%;  position: relative;z-index: -1 ; 
-
+  padding: 4.5%; 
 
 }
 .i-features-images {
