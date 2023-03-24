@@ -6,12 +6,10 @@
 #heading {
   font-family: "Oswald", sans-serif;
   font-family: "Montserrat", sans-serif;
-  
 }
 
 .container-fluid {
-  padding: 3% 10% ;
- 
+  padding: 3% 10%;
 }
 
 .navbar {
@@ -21,7 +19,6 @@
   padding: 0 18px;
   font-size: 20px;
   font-weight: bold;
-  
 }
 
 /* downloads button  */
@@ -32,13 +29,9 @@
 
 /* .title-image */
 .title-image {
-  width: 60%;
+  width: 50%;
   transform: rotate(30deg);
-
-
 }
-
-
 
 /* features */
 h1 {
@@ -59,8 +52,6 @@ h3 {
 #features {
   padding: 7% 15%;
   background-color: #fff;
- 
- 
 }
 #feature-box {
   padding: 4.5%;
@@ -80,7 +71,7 @@ p {
 
 #testimonials {
   text-align: center;
-  
+
   background-color: #ef8172;
   color: #fff;
 }
@@ -90,7 +81,7 @@ p {
   border-radius: 50%;
   margin: 20px;
 }
-.carousel-item{
+.carousel-item {
   padding: 7% 15%;
 }
 
@@ -98,50 +89,50 @@ p {
   background-color: #ef8172;
   padding-bottom: 3%;
   text-align: center;
-  
 }
 
-.press-logo{
+.press-logo {
   margin: 20px 20px 50px;
   width: 17 0px;
-  
 }
 
 /* carousel */
 
-
-
-
 /* pricing */
 
-
-#pricing{
+#pricing {
   padding: 7% 15%;
 }
-.Labrador:hover,.Mastiff:hover,.Chihuahua:hover{
-background-color: #ff4c68;
-border-color: #ff4c68;
+.Labrador:hover,
+.Mastiff:hover,
+.Chihuahua:hover {
+  background-color: #ff4c68;
+  border-color: #ff4c68;
 }
-.Labrador,.Mastiff{
+.Labrador,
+.Mastiff {
   background-color: #ef8172;
 }
 
-/* footer  */
+/* cta  */
+
+#cta {
+  background-color: #ef8172;
+
+  color: #fff;
+}
+
+.button-cta {
+  color: black;
+  background-color: #fff;
+  margin: 20px;
+}
+.button-cta:hover {
+  background-color: #f26754;
+}
+
+/* footer */
 
 #footer{
-background-color: #ef8172;
-padding: -5px;
-margin: 0;
-
-color: #fff;
-
-}
-
-
-.button-cta{
-  background-color: #ef8172;
-margin: 20px;
-}
-.button-cta:hover{
-  background-color: #f26754;
+  margin: 50px;
 }
