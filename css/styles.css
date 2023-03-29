@@ -1,7 +1,6 @@
 #title {
   background-color: #ff4c68;
   color: #fff;
-
 }
 
 #heading {
@@ -31,10 +30,7 @@
 /* .title-image */
 .title-image {
   width: 50%;
-  transform: rotate(30deg); 
-
- 
-  
+  transform: rotate(30deg);
 }
 
 /* features */
@@ -56,11 +52,9 @@ h3 {
 #features {
   padding: 7% 15%;
   background-color: #fff;
-
 }
 #feature-box {
-  padding: 4.5%; 
-
+  padding: 4.5%;
 }
 .i-features-images {
   color: #ef8172;
@@ -139,6 +133,19 @@ p {
 
 /* footer */
 
-#footer{
+#footer {
   margin: 50px;
+}
+
+
+/* media query */
+
+@media only screen and (max-width: 768px){
+ #title {
+  text-align: center;
+  }
+  .title-image {
+    width: 50%;
+    transform: rotate(0deg);
+  }
 }
