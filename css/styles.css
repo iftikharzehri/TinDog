@@ -148,4 +148,7 @@ p {
     width: 50%;
     transform: rotate(0deg);
   }
+  .nav-item{
+text-align: right ;
+  }
 }
