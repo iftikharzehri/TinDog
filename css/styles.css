@@ -117,18 +117,18 @@ p {
 /* cta  */
 
 #cta {
-  background-color: #ef8172;
+  background-color: #ff4c68;
 
   color: #fff;
 }
 
 .button-cta {
-  color: black;
-  background-color: #fff;
+  /* color: black;
+  background-color: #fff; */
   margin: 20px;
 }
 .button-cta:hover {
-  background-color: #f26754;
+  background-color: #ffffff;
 }
 
 /* footer */
@@ -138,6 +138,14 @@ p {
 }
 
 
+.social-btns{
+  padding-top: 100px;
+  padding-bottom: 15px;
+}
+
+.copyright{
+  padding-bottom: 100px;
+}
 /* media query */
 
 @media only screen and (max-width: 768px){
