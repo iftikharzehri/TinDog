@@ -1,15 +1,30 @@
+ 
+h1, h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+ 
+h3 {
+  
+  font-size: 2.5rem;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
 #title {
   background-color: #ff4c68;
   color: #fff;
 }
 
-#heading {
+#heading, h1,h2,h3,h4 {
   font-family: "Oswald", sans-serif;
   font-family: "Montserrat", sans-serif;
 }
 
 .container-fluid {
   padding: 3% 10%;
+  color: #fff;
 }
 
 .navbar {
@@ -34,21 +49,7 @@
 }
 
 /* features */
-h1 {
-  font-size: 3rem;
-  line-height: 1.5;
-}
-h2 {
-  font-family: "Montserrat";
-  size: 3rem;
-  line-height: 1.5;
-}
-h3 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 2.5rem;
-  margin-left: 50px;
-  margin-right: 50px;
-}
+
 #features {
   padding: 7% 15%;
   background-color: #fff;
@@ -123,8 +124,6 @@ p {
 }
 
 .button-cta {
-  /* color: black;
-  background-color: #fff; */
   margin: 20px;
 }
 .button-cta:hover {
