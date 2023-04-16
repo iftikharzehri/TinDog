@@ -1,7 +1,11 @@
- 
-h1, h2 {
+ body{
+  text-align: center;
+ }
+.bigHeading{
   font-size: 3rem;
   line-height: 1.5;
+  font-family: "Oswald", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
  
 h3 {
@@ -16,11 +20,11 @@ h3 {
   background-color: #ff4c68;
   color: #fff;
 }
-
+/* 
 #heading, h1,h2,h3,h4 {
   font-family: "Oswald", sans-serif;
   font-family: "Montserrat", sans-serif;
-}
+} */
 
 .container-fluid {
   padding: 3% 10%;
@@ -71,9 +75,7 @@ p {
 /* testimonial */
 
 #testimonials {
-  text-align: center;
-
-  background-color: #ef8172;
+   background-color: #ef8172;
   color: #fff;
 }
 .testimonial-image {
@@ -89,7 +91,7 @@ p {
 #press {
   background-color: #ef8172;
   padding-bottom: 3%;
-  text-align: center;
+  
 }
 
 .press-logo {
