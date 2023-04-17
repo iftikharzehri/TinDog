@@ -1,12 +1,7 @@
  body{
   text-align: center;
  }
-.bigHeading{
-  font-size: 3rem;
-  line-height: 1.5;
-  font-family: "Oswald", sans-serif;
-  font-family: "Montserrat", sans-serif;
-}
+
  
 h3 {
   
@@ -14,6 +9,17 @@ h3 {
   margin-left: 50px;
   margin-right: 50px;
 }
+
+/* Headings */
+.bigHeading{
+  font-size: 5rem;
+  line-height: 1.5;
+  font-family: "Oswald", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  text-align: left;
+}
+
+
 
 
 #title {
@@ -28,7 +34,6 @@ h3 {
 
 .container-fluid {
   padding: 3% 10%;
-  color: #fff;
 }
 
 .navbar {
@@ -37,7 +42,6 @@ h3 {
 .nav-item {
   padding: 0 18px;
   font-size: 20px;
-  font-weight: bold;
 }
 
 /* downloads button  */
@@ -54,10 +58,7 @@ h3 {
 
 /* features */
 
-#features {
-  padding: 7% 15%;
-  background-color: #fff;
-}
+
 #feature-box {
   padding: 4.5%;
 }
@@ -99,13 +100,10 @@ p {
   width: 17 0px;
 }
 
-/* carousel */
+
 
 /* pricing */
 
-#pricing {
-  padding: 7% 15%;
-}
 .Labrador:hover,
 .Mastiff:hover,
 .Chihuahua:hover {
@@ -115,6 +113,7 @@ p {
 .Labrador,
 .Mastiff {
   background-color: #ef8172;
+  border-color: #ef8172;
 }
 
 /* cta  */
