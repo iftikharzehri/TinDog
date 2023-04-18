@@ -60,6 +60,7 @@ h3 {
 
 #feature-box {
   padding: 4.5%;
+ 
 }
 .i-features-images {
   color: #ef8172;
@@ -158,4 +159,24 @@ p {
   .nav-item{
 text-align: right ;
   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div2, #heading{
+  color: red;
 }
