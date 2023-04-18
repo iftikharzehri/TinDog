@@ -27,15 +27,13 @@ h3 {
 }
 
 
-/* navigation bar  */
 
 .colored-section{
   background-color: #ff4c68;
   color: #fff;
 }
-.white-section{
-  
-}
+
+/* navigation bar  */
 
 .container-fluid {
   padding: 3% 10%;
@@ -47,7 +45,9 @@ h3 {
 .nav-item {
   padding: 0 18px;
   font-size: 20px;
+
 }
+
 
 /* downloads button  */
 
