@@ -119,10 +119,15 @@ p {
 .Labrador:hover,
 .Mastiff:hover,
 .Chihuahua:hover {
+  background-color: #fd2848;
+  border-color: #fd2848;
+}
+
+.Labrador,
+.Mastiff {
   background-color: #ff4c68;
   border-color: #ff4c68;
 }
-
 
 /* cta  */
 
