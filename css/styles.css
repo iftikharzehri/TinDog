@@ -1,16 +1,15 @@
- body{
+body {
   text-align: center;
- }
+}
 
 h3 {
-  
   font-size: 2.5rem;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 /* Headings */
-.bigHeading{
+.bigHeading {
   font-size: 5rem;
   line-height: 1.5;
   font-family: "Oswald", sans-serif;
@@ -18,17 +17,12 @@ h3 {
   text-align: left;
 }
 
-
-
-
 #title {
   background-color: #ff4c68;
   color: #fff;
 }
 
-
-
-.colored-section{
+.colored-section {
   background-color: #ff4c68;
   color: #fff;
 }
@@ -38,16 +32,18 @@ h3 {
 .container-fluid {
   padding: 3% 10%;
 }
-
+.tingdog {
+  font-size: 3.25rem;
+  font-family: "Rubik Iso", cursive;
+  color: #fff;
+}
 .navbar {
   padding: 0 0 4.5rem;
 }
 .nav-item {
   padding: 0 18px;
   font-size: 20px;
-
 }
-
 
 /* downloads button  */
 
@@ -63,16 +59,13 @@ h3 {
 
 /* features */
 
-
 #feature-box {
   padding: 4.5%;
- 
 }
 .i-features-images {
   color: #ef8172;
   margin-bottom: 1rem;
 }
-
 
 .i-features-images:hover {
   color: #ff4c68;
@@ -81,15 +74,12 @@ h3 {
 /* footer  */
 p {
   color: #8f8f8f;
-}  
-
-
+}
 
 /* testimonial */
 
 #testimonials {
-   background-color: #ef8172;
-  
+  background-color: #ef8172;
 }
 .testimonial-image {
   width: 10%;
@@ -104,15 +94,12 @@ p {
 #press {
   background-color: #ef8172;
   padding-bottom: 3%;
-  
 }
 
 .press-logo {
   margin: 20px 20px 50px;
   width: 17 0px;
 }
-
-
 
 /* pricing */
 
@@ -131,7 +118,6 @@ p {
 
 /* cta  */
 
-
 .button-cta {
   margin: 20px;
 }
@@ -145,46 +131,25 @@ p {
   margin: 50px;
 }
 
-
-.social-btns{
+.social-btns {
   padding-top: 100px;
   padding-bottom: 15px;
 }
 
-.copyright{
-  padding-bottom: 100px;
+.copyright {
+  padding-bottom: 10px;
 }
 /* media query */
 
-@media only screen and (max-width: 768px){
- #title {
-  text-align: center;
+@media only screen and (max-width: 768px) {
+  #title {
+    text-align: center;
   }
   .title-image {
     width: 50%;
     transform: rotate(0deg);
   }
-  .nav-item{
-text-align: right ;
+  .nav-item {
+    text-align: right;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-
-.div2, #heading{
-  color: red;
-} */
