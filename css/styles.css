@@ -141,7 +141,7 @@ p {
 }
 /* media query */
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 499px) {
   #title {
     text-align: center;
   }
